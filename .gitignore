@@ -1,0 +1,8 @@
+**/__pycache__
+/.vscode/settings.json
+/yolov4_1_3_416_416_static.onnx
+/yolov4_-1_3_416_416_static_fp16.engine
+/yolov4_-1_3_416_416_static_int8.engine
+weight
+/data/5.mp4
+/.vscode/launch.json
