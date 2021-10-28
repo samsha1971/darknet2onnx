@@ -1,6 +1,6 @@
 # darknet2onnx
 
-代码是从 https://github.com/Tianxiaomo/pytorch-YOLOv4/裁剪出来的，主要裁剪内容是把darknet模型导出为ONNX模型。
+代码是从 https://github.com/Tianxiaomo/pytorch-YOLOv4/ 裁剪出来的，主要裁剪内容是把darknet模型导出为ONNX模型。
 
 ## 验证通过环境
 
@@ -45,4 +45,11 @@ python demo_trt.py ./yolov4_-1_3_416_416_static.engine ./data/dog.jpg
 # 视频样例
 python demo_trt_video.py ./yolov4_-1_3_416_416_static.engine ./data/5.mp4
 ```
+
+
+
+## 模型库分享
+
+链接：https://pan.baidu.com/s/15FkQNvhonR7Zzk91qX8V_A 
+提取码：p0qv
 
